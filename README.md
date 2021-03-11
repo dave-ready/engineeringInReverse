@@ -1,22 +1,36 @@
 
   ##Apache 2.0<img scr="https://opensource.org/licenses/Apache-2.0">
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
-  #Engineering in Reverse
+
+
+
+  **#ENGINEERING IN REVERSE**
 
 
   ##Table of Contents
   -[Description](#Description)
   -[Usage](#Usage)
-  -[Technologies Used](#Technologies)
-  
+  -[Technologies](#Technologies)
+  -[Contributing](#Contributing)
+  -[Tests](#Tests)
+
   ##Description
-  For this week's homework assignment we provided a descriptive walkthrough of the code given to us for a password authentication app.
+  For this week's homework assignment, we were asked to give a descriptive walkthrough of the codebase for a password authentication app
 
   ##Usage
-  AS A developer/I WANT a walk-through of the codebase/SO THAT I can use it as a starting point for a new project
+  GIVEN a Node.js application using Sequelize and Passport 
+  WHEN I follow the walkthrough 
+  THEN I understand the codebase
 
   ##Technologies
-  node.js, express, sequelize, html, css, vs code, github 
+  node.js, express, sequelize, html, css, github, visual studio code
+
+  ##Contributing
+  
+
+  ##Tests
+  
+  
 
   ##Contact
   -Github Username: Dave-Ready
